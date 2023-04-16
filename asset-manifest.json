@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/al-bader-college/static/css/main.31d6cfe0.css",
-    "main.js": "/al-bader-college/static/js/main.f71602fb.js",
+    "main.css": "/al-bader-college/static/css/main.8eb20739.css",
+    "main.js": "/al-bader-college/static/js/main.3b31d33a.js",
     "static/media/albader-maquette.png": "/al-bader-college/static/media/albader-maquette.6075c9fcf7c3dd6d253b.png",
     "index.html": "/al-bader-college/index.html",
-    "main.f71602fb.js.map": "/al-bader-college/static/js/main.f71602fb.js.map"
+    "main.8eb20739.css.map": "/al-bader-college/static/css/main.8eb20739.css.map",
+    "main.3b31d33a.js.map": "/al-bader-college/static/js/main.3b31d33a.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.f71602fb.js"
+    "static/css/main.8eb20739.css",
+    "static/js/main.3b31d33a.js"
   ]
 }
